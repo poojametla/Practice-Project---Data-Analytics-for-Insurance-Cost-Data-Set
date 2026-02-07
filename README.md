@@ -1,1 +1,1 @@
-# Practice-Project---Data-Analytics-for-Insurance-Cost-Data-Set
+# Practice-Project---Data-Analytics-for-Insurance-Cost-Data-Set (Machine learning)
